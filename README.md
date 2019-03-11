@@ -18,6 +18,8 @@ Visto che tra le informazioni delle foto c'è la posizione geografica, come prim
 
 (Qui descizione di Totò)
 
+## La mappa
+
 Sempre con [QGIS](https://www.qgis.org/it/site/) abbiamo ottenuto i file *[geojson](https://it.wikipedia.org/wiki/GeoJSON)* che ci hanno permesso di costruire una mappa dinamica su **[uMap](http://u.osmfr.org/m/301213/)** 
 
 ![](/img/palermohub_01.jpg)
