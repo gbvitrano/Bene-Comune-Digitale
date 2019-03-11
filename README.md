@@ -22,11 +22,8 @@ Visto che tra le informazioni delle foto c'è la posizione geografica, come prim
 
 Sempre con [QGIS](https://www.qgis.org/it/site/) abbiamo ottenuto i file *[geojson](https://it.wikipedia.org/wiki/GeoJSON)* che ci hanno permesso di costruire una mappa dinamica su **[uMap](http://u.osmfr.org/m/301213/)** 
 
-![http://palermohub.opendatasicilia.it/library.html](/img/palermohub_01.jpg)
+[![](/img/palermohub_01.jpg)](http://palermohub.opendatasicilia.it/library.html)
 
 La Cartografia di base utilizzata nella mappa, è la Carta tecnica storica della Soc. An. Ottico Meccanica Italiana e Rilevamenti Aerofotogrammetrici (O.M.I.R.A.) del 1935 di Roma, pubblicata dal Comune di Palermo nel [Portale Cartografico](http://geosrv.comune.palermo.it/carto/), [scaricata e riproiettata](https://medium.com/tantotanto/dati-da-un-server-wms-scaricarli-riproiettarli-comprimerli-e-tassellarli-da-riga-di-comando-a34cb6fe13e0) per realizzare [Atlante delle cartografie storiche di Palermo](http://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534).
 
-![http://palermohub.opendatasicilia.it/library.html](/img/palermohub_02.jpg)
-
-
-
+[![](/img/palermohub_02.jpg)](http://palermohub.opendatasicilia.it/library.html)
