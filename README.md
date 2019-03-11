@@ -7,7 +7,7 @@ Il progetto nasce a fine 2017, quando sono state pubblicate su **[Flickr](https:
 
 Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “corredo informativo” costituito da: titolo, posizione geografica, gallerie di appartenenza, tag, licenza e metadati (non sono dati presenti in tutte le foto, ma nella grandissima parte), tutte pubblicate con una **licenza aperta [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) che ne consente il riuso**
 
-
+Grazie all'uso della [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) al *web scraping* [@aborruso](https://twitter.com/aborruso) ha ottenuto i dati grezzi ottimi per un **riuso**
 
 
 
