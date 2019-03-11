@@ -5,7 +5,7 @@ Per il Comune di Palermo ha aderito la **[Biblioteca Comunale](https://docs.goog
 
 Il progetto nasce a fine 2017, quando sono state pubblicate su **[Flickr](https://www.flickr.com/photos/biblioteca-comunale-palermo/albums)** le prime foto della Collezione fotografica di **Enrico Di Benedetto**, scattate a **Palermo** tra il **XIX** ed il **XX** secolo, un progetto permette a noi cittadini di fare **[un meraviglioso viaggio nel tempo](http://opendatasicilia.it/2019/03/11/palermo-un-meraviglioso-viaggio-nel-tempo-grazie-alla-biblioteca-comunale-di-palermo/)** (cit.)
 
-Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “corredo informativo” costituito da: titolo, posizione geografica, gallerie di appartenenza, tag, licenza e metadati (non sono dati presenti in tutte le foto, ma nella grandissima parte), tutte pubblicate con una **licenza aperta [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) che ne consente il riuso**
+Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “corredo informativo” costituito da: titolo, posizione geografica, gallerie di appartenenza, tag, licenza e metadati (non sono dati presenti in tutte le foto, ma nella grandissima parte), tutte pubblicate con una **licenza aperta [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) che ne consente il riuso** 
 
 Grazie all'uso della licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) e al *web scraping* [@aborruso](https://twitter.com/aborruso), partendo dagli album di [Flickr](https://www.flickr.com/photos/biblioteca-comunale-palermo/albums) ha ottenuto i dati grezzi ottimi per un **riuso**. <br>
 [Qui](https://github.com/opendatasicilia/flickr-biblioteca-comunale-palermo/tree/master/report) il report con i dati
@@ -27,3 +27,5 @@ Sempre con [QGIS](https://www.qgis.org/it/site/) abbiamo ottenuto i file *[geojs
 La Cartografia di base utilizzata nella mappa, è la Carta tecnica storica della Soc. An. Ottico Meccanica Italiana e Rilevamenti Aerofotogrammetrici (O.M.I.R.A.) del 1935 di Roma, pubblicata dal Comune di Palermo nel [Portale Cartografico](http://geosrv.comune.palermo.it/carto/), [scaricata e riproiettata](https://medium.com/tantotanto/dati-da-un-server-wms-scaricarli-riproiettarli-comprimerli-e-tassellarli-da-riga-di-comando-a34cb6fe13e0) per realizzare [Atlante delle cartografie storiche di Palermo](http://palermohub.opendatasicilia.it/index_atlante.html#14/38.1113/13.3534).
 
 [![](/img/palermohub_02.jpg)](http://palermohub.opendatasicilia.it/library.html)
+
+
