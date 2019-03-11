@@ -10,14 +10,17 @@ Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “c
 Grazie all'uso della licenza [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) e al *web scraping* [@aborruso](https://twitter.com/aborruso), partendo dagli album di [Flickr](https://www.flickr.com/photos/biblioteca-comunale-palermo/albums) ha ottenuto i dati grezzi ottimi per un **riuso**. <br>
 [Qui](https://github.com/opendatasicilia/flickr-biblioteca-comunale-palermo/tree/master/report) il report con i dati
 
-Visto che tra le informazioni delle foto c'è la posizione geografica, come prima cosa abbiamo cercato di localizzarle sul territorio comunale di Palermo, per farlo è stato utilizzato il software [QGIS](https://www.qgis.org/it/site/)
+Visto che tra le informazioni delle foto c'è la posizione geografica, come prima cosa abbiamo localizzato le foto sul territorio comunale di Palermo, per farlo è stato utilizzato il software [QGIS](https://www.qgis.org/it/site/)
 
 ![](/img/qgis.png)
 
+(Qui descizione di Totò)
 
+Sempre con [QGIS](https://www.qgis.org/it/site/) abbiamo ottenuto i file *[geojson](https://it.wikipedia.org/wiki/GeoJSON)* che ci hanno permesso di costruire una mappa dinamica su **[uMap](http://u.osmfr.org/m/301213/)** 
 
+![](/img/palermohub_01.jpg)
 
-
+![](/img/palermohub_02.jpg)
 
 
 
