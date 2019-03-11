@@ -5,7 +5,7 @@ Per il Comune di Palermo ha aderito la **[Biblioteca Comunale](https://docs.goog
 
 Il progetto nasce a fine 2017, quando sono state pubblicate su **[Flickr](https://www.flickr.com/photos/biblioteca-comunale-palermo/albums)** le prime foto della Collezione fotografica di **Enrico Di Benedetto**, scattate a **Palermo** tra il **XIX** ed il **XX** secolo, un progetto permette a noi cittadini di fare **[un meraviglioso viaggio nel tempo](http://opendatasicilia.it/2019/03/11/palermo-un-meraviglioso-viaggio-nel-tempo-grazie-alla-biblioteca-comunale-di-palermo/)** (cit.)
 
-Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “corredo informativo” costituito da: titolo, posizione geografica, gallerie di appartenenza, tag, licenza e metadati (non sono dati presenti in tutte le foto, ma nella grandissima parte)
+Ad oggi sono state pubblicate più di 800 foto, ad ognuna è associato a un “corredo informativo” costituito da: titolo, posizione geografica, gallerie di appartenenza, tag, licenza e metadati (non sono dati presenti in tutte le foto, ma nella grandissima parte), tutte pubblicate con una **licenza aperta [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.it) che ne consente il riuso**
 
 
 
